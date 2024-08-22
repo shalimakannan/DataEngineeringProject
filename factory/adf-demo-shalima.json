@@ -1,0 +1,9 @@
+{
+	"name": "adf-demo-shalima",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b8079c9e-c1ef-45ea-bb5d-3df849326db2",
+		"tenantId": "3f7fba1b-556c-43fd-89e2-7c1d8f7eb1c9"
+	}
+}
